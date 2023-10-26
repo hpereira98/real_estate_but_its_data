@@ -1,0 +1,1 @@
+from scraping.scraper import get_imovirtual_properties

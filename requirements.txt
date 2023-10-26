@@ -1,0 +1,6 @@
+awscli==1.27.72
+awscli-local==0.20
+beautifulsoup4==4.12.2
+boto3==1.26.59
+geopy==2.4.0
+requests==2.31.0
